@@ -1,0 +1,66 @@
+header {
+  background-color: #F6F6F9;
+}
+
+.n24-logo {
+  background-color: #fff;
+}
+nav ul li {
+  background-color: #fff;
+}
+
+nav ul li a {
+  color: #515151;
+}
+
+header div span {
+  color: #285193;
+}
+
+header div ul li button {
+  background-color: #fff;
+}
+header div ul li a {
+  background-color: #1E96C8;
+  color: #fff;
+}
+header div ul li a img {
+  background-color: #fff;
+}
+
+header div p {
+  color: #7A7A7A;
+}
+
+.covid-list {
+  background-color: #F6F6F9;
+}
+.thema {
+  color: #202020;
+}
+.text {
+  color: #434343;
+}
+.time {
+  color: #7688A4;
+}
+.more-news {
+  background-color: #295093;
+  color: #fff;
+}
+.popular-news {
+  background-color: #F6F6F9;
+}
+footer {
+  background-color: #295093;
+  color: #fff;
+}
+.n24 {
+  background-color: #fff;
+}
+.share {
+  background-color: #fff;
+}
+.info ul li a {
+  color: #fff;
+}
